@@ -1,0 +1,895 @@
+
+@media screen and (max-width:991px){
+
+
+.navbar-light .navbar-toggler{
+    margin: -98px 0px 0 686px;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin-left: 50px;
+    text-align: center;
+}
+.right-image img{
+    left: 0;
+    width: 100%;
+    margin-top: -62px;
+}
+.left-image img{
+    left: 61px;
+    top: 865px;
+    width: 40%;
+    height: 450px;
+}
+.mission{
+    height: 460px;
+}
+.bottom-text p{
+    padding: 30px 26px;
+}
+.work h2{
+    font-size: 50px;
+}
+.play-btn {
+    width: 12%;
+    left: 324px;
+}
+.banquet{
+    height: 600px;
+}
+.about img{
+    margin: 50px 0 30px;
+}
+.row mb-5{
+    margin: 0;
+}
+.image3 img{
+    padding: 60px 0 30px;
+    height: 800px;
+}
+.image2 img{
+    padding-top: 15px;
+}
+.occassion-text{
+    padding: 0;
+   margin: 0;
+}
+.banq-image5 img{
+    width: 100%;
+    margin: 0;
+    padding-top: 40px;
+    height: 600px;
+}
+.get-reservation-button{
+    margin:0;
+}
+.occassion h2{
+    padding: 40px 0 20px 20px;
+}
+.occassion p{
+    padding: 0 20px 20px 20px;
+    font-size: 18px;
+    line-height: 40px;
+}
+.occassion h3{
+    padding: 0 0 40px 20px;
+}
+.availability{
+    margin-top: 46px;
+    height: 640px;
+}
+.career-text{
+    margin:52px 0 0 0;
+    padding: 30px 30px;
+}
+.career{
+    height: 500px;
+}
+.join-button{
+    margin-left: 245px;
+}
+.press p{
+    padding-bottom: 30px;
+}
+.lunch-starter a{
+    margin: 0;
+    padding-top: 30px;
+  }
+  .lunch-ent-right-img img{
+    padding: 40px 0 40px;
+    margin: 0;
+    position: inherit;
+    width: 100%;
+    height: 500px;
+}
+.lunch-ent-left-img img{
+    margin: 0;
+    position: inherit;
+    width: 100%;
+}
+.entres-left-text{
+    margin: 0;
+    padding: 0;
+}
+.entres-left-text h5{
+    padding: 0;
+    margin: 0;
+}
+.entres-right-text{
+    padding: 0;
+    margin: 0;
+   
+}
+.fish-img{
+    border: none;
+}
+.chicken-img{
+    border: none;
+}
+.lunch-starter-left-text{
+    padding: 0;
+    margin: 0;
+}
+.lunch-starter-right-text{
+    padding: 0;
+    margin: 0;
+}
+.lunch-starter-left-text h4 span1 {
+    margin-left: 234px;
+}
+.lunch-starter-left-text h4 span2 {
+    margin-left: 256px;
+}
+.lunch-starter-left-text h4 span3 {
+    margin-left: 314px;
+}
+.lunch-starter-left-text h4 span4 {
+    margin-left: 230px;
+}
+.lunch-starter-right-text h4 span5 {
+    margin-left: 270px;
+}
+.lunch-starter-right-text h4 span6 {
+    margin-left: 176px;
+}
+.lunch-starter-right-text h4 span7 {
+    margin-left: 156px;
+}
+.lunch-starter-right-text h4 span8 {
+    margin-left: 216px;
+}
+.entres-left-text h4 span1 {
+    margin-left: 330px;
+}
+.entres-left-text h4 span2 {
+    margin-left: 316px;
+}
+.entres-left-text h4 span3 {
+    margin-left: 370px;
+}
+.entres-left-text h4 span4 {
+    margin-left: 280px;
+}
+.entres-left-text h4 span5 {
+    margin-left: 390px;
+}
+.entres-left-text h4 span6 {
+    margin-left: 440px;
+}
+
+.entres-right-text h4 span1 {
+    margin-left: 226px;
+}
+.entres-right-text h4 span2 {
+    margin-left: 390px;
+}
+.entres-right-text h4 span3 {
+    margin-left: 280px;
+}
+.entres-right-text h4 span4 {
+    margin-left: 400px;
+}
+.entres-right-text h4 span5 {
+    margin-left: 300px;
+}
+.entres-right-text h4 span6 {
+    margin-left: 300px;
+}
+.dinner-right-text{
+    padding: 0;
+}
+.dinner-left-text{
+    padding: 0;
+}
+.dinner-left-text span1{
+    
+    margin-left: 380px;
+}
+.dinner-left-text span2{
+   
+    margin-left: 370px;
+}
+.dinner-right-text span3{
+    
+    margin-left: 420px;
+}
+.dinner-right-text span4{
+    
+    margin-left: 330px;
+}
+.dinner-ent-left-img img{
+    width: 100%;
+    height: 300px;
+}
+.dinner-ent-right-img img{
+    top: 8330px;
+    left: 60px;
+    right: 10px;
+    width: 85%;
+   padding: 0;
+    height: 300px;
+}
+.dinner-entrees h2{
+    padding-bottom: 30px;
+}
+.dinner-entres-left-text{
+    margin-top: 380px;
+    padding: 0;
+}
+.dinner-entres-right-text{
+    margin: 0;
+    padding: 0;
+}
+.dinner-entres-left-text span1{
+    margin-left: 426px;
+}
+.dinner-entres-left-text span2{
+    margin-left: 410px;
+}
+.dinner-entres-left-text span3{
+    margin-left: 364px;
+}
+.dinner-entres-left-text span4{
+    margin-left: 350px;
+}
+.dinner-entres-left-text span5{
+    margin-left: 378px;
+}
+.dinner-entres-left-text span6{
+    margin-left: 474px;
+}
+.dinner-entres-right-text span1{
+    margin-left: 436px;
+}
+.dinner-entres-right-text span2{
+    margin-left: 410px;
+}
+.dinner-entres-right-text span3{
+    margin-left: 410px;
+}
+.dinner-entres-right-text span4{
+    margin-left: 364px;
+}
+.dinner-entres-right-text span5{
+    margin-left: 356px;
+}
+.dinner-entres-right-text span6{
+    margin-left: 310px;
+}
+.menu-happyhr-right-text{
+    padding: 0;
+    margin: 0;
+}
+.menu-happyhr-left-text{
+    padding: 0;
+    margin-top: 40px;
+}
+.menu-happyhr-left-text span1{
+    margin-left: 452px;
+}
+.menu-happyhr-left-text span2{
+    margin-left: 455px;
+}
+.menu-happyhr-right-text span1{
+    margin-left: 445px;
+}
+.menu-happyhr-right-text span2{
+    margin-left: 414px;
+}
+.modal-content{
+    width: 145%;
+    margin-left: -108px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+}
+
+@media screen and (max-width:767px) {
+
+    .navbar-nav{
+        text-align: center;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin: 0;
+    }
+    .navbar-light .navbar-toggler{
+        margin: 0;
+    }
+    .navbar-brand img{
+        width: 162px;
+    }
+    .header-button{
+        margin-right: 32px;
+    }
+    .carousel-caption{
+        bottom: 165px;
+    }
+    .carousel-caption h5{
+        font-size: 34px; 
+    }
+    .carousel-caption a{
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+    .carousel-caption p{
+        font-size: 18px;
+        padding-top: 20px;   
+    }
+   .page-footer h3{
+    margin-top: 28px;
+   }
+   .page-footer h3 span{
+       margin: 0;
+   }
+   .page-footer p{
+       margin-left: 25px;
+   }
+   .quike_link li a{
+       padding: 0;
+   }
+   .full-name input{
+    margin-left: 25px;
+   }
+   .email input {
+    margin-left: 25px;
+   }
+  .submit-button{
+      margin-left: 25px;
+  }
+  .bottom-footer h5{
+      font-size: 14px;
+  }
+  .bottom-footer{
+      display: block;
+      text-align: center;
+      justify-content: center;
+
+  }
+  .page-footer img{
+    margin-left: 28px;
+}
+  
+  .operation h3{
+  font-size: 31px;
+  }
+  .hours_nav li a span{
+      font-size: 18px;
+  }
+  .direction_nav li a span{
+      font-size: 18px;
+  }
+  .buy-button{
+      margin-left: 78px;
+  }
+  
+.gallery h3{
+    font-size: 31px;
+}
+.gallery h2{
+    font-size: 50px;
+}
+.about img{
+    height: 350px;
+    margin-top: 34px;
+}
+.about h3{
+    font-size: 31px;
+}
+.about h4{
+    font-size: 20px;
+    font-weight: 400;
+}
+.about-left-text{
+    padding-left: 20px;
+}
+.about p{
+    padding: 16px 0 40px;
+    font-weight: 300;
+}
+.know-button{
+    margin-left: 72px;
+}
+.about h2{
+    font-size: 50px;
+}
+.banquet h2{
+    font-size: 50px;
+}
+.banquet h3{
+    font-size: 31px;
+}
+.banquet p{
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 15px;
+}
+.banquet{
+    height: 840px;
+}
+.banquet-text{
+   margin: 14px;
+}
+.banquet h4 span{
+    font-size: 24px;
+}
+.banquet h4{
+    font-size: 18px;
+}
+.menu h2{
+        font-size: 60px;      
+}
+.menu h2 span{
+    font-size: 50px;
+}
+.card-title{
+   font-size: 24px;
+}
+.card-title span1{
+    padding-left: 92px;
+}
+.card-title span2{
+    padding-left: 22px;
+}
+.card-title span3{
+    padding-left: 22px;
+}
+.card-title span4{
+    padding-left: 9px;
+}
+.card-title span5{
+    padding-left: 2px;
+}
+.card-title span6{
+    padding-left: 10px;
+}
+.card-title span7{
+    padding-left: 10px;
+}
+.card-title span8{
+    padding-left: 2px;
+}
+/***** ABOUT PAGE ****/
+.history h2{
+    font-size: 50px;
+    text-align: center;
+    
+}
+.history-left-text p{
+    font-size: 21px;
+    text-align: center;
+    
+}
+.left-image img{
+    width: 100%;  
+   position: inherit;
+
+}
+.history-right-text{
+    font-size: 18px;
+    
+}
+.history-right-text p{
+    padding: 30px 0 0 20px;
+    font-size: 18px;
+   
+}
+.work h2{
+    font-size: 50px;
+}
+.right-image img{
+ position: inherit;
+ width: 100%;
+ padding-top: 12px;
+ height: 320px;
+}
+.bottom-text h2{
+    padding: 0;
+}
+.cuisine h4{
+    padding-left: 20px;
+}
+.cuisine-left-para p{
+    padding-left: 20px;
+    line-height: 36px;
+}
+.cuisine-right p{
+    padding-left: 20px;
+    line-height: 36px;
+}
+.play-btn {
+    left: 152px;
+    width: 22%;
+}
+.modal-content{
+    width: 100%;
+    margin: 0;
+   
+}
+/********* BANQUET PAGE ********/
+.banquet-banner h2{
+    font-size: 50px;
+}
+.banquet-banner h4{
+    font-size: 20px;
+    font-weight: 400;
+}
+.image1 img{
+    width: 100%;
+    margin:0;
+    padding-bottom: 15px;  
+}
+.image2 img{
+    height: 300px;
+}
+.image3 img{
+    margin: 0;
+    padding: 30px 0 30px;
+    height: 500px;
+}
+.image4 img{
+    width: 100%;
+}
+.banquet-service h3{
+    font-size: 31px;
+    padding-left: 20px;
+}
+.banquet-service h2{
+    font-size: 50px;
+    padding-left: 20px;
+}
+.banquet-service p{
+    padding-left: 20px;
+    line-height: 36px;
+}
+.banq-image5 img{
+    width: 100%;
+    margin: 0;
+    padding-top: 40px;
+    height: 400px;
+}
+.occassion-text{
+    padding: 40px 8px 40px;
+   margin: 0;
+}
+.occassion h2{
+    font-size: 24px;
+    margin-left: 20px;
+}
+.occassion h3{
+    font-size: 24px;
+    margin-left: 20px;
+}
+.occassion p{
+    padding: 0;
+    margin: 25px 0 25px 20px;
+}
+.occassion{
+    padding: 10px 0 40px;
+}
+
+/******* CONTACT PAGE ********/
+.reservation h2{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.reservation h4{
+    padding-left: 20px;
+}
+.availability{
+    margin: 30px 0 34px 0;
+}
+.availabl-image img{
+    padding: 0;
+}
+.get-reservation-button{
+    margin:0;
+}
+.career-text p{
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.career-text{
+    padding: 28px 16px;
+   margin: 68px 10px;
+}
+.join-button{
+    margin-left: 65px;
+}
+.career img{
+    width: 100%;
+}
+.career img{
+height: 300px;
+}
+.career{
+    height: 510px;
+}
+.press h2{
+    font-size: 50px;
+}
+.press h4{
+    font-size: 31px;
+}
+.press p{
+    padding-bottom: 30px;
+}
+/*********** MENU PAGE *******/
+.lunch-starter a{
+  margin: 0;
+  padding-top: 30px;
+}
+.lunch-starter img{
+    height: 200px;
+    margin-bottom: 10px
+}
+.lunch-starter-left-text{
+    padding: 0;
+}
+.lunch-starter-right-text{
+    padding: 0;
+}
+.lunch-starter-left-text h4 span1 {
+    margin-left: -99px;
+}
+.lunch-starter-left-text h4 span2 {
+    margin-left: -80px;
+}
+.lunch-starter-left-text h4 span3 {
+    margin-left: -24px;
+}
+.lunch-starter-left-text h4 span4 {
+    margin-left: -96px;
+}
+.lunch-starter-right-text h4 span5 {
+    margin-left: -66px;
+}
+.lunch-starter-right-text h4 span6 {
+    margin-left: 162px;
+}
+.lunch-starter-right-text h4 span7 {
+    margin-left: 160px;
+}
+.lunch-starter-right-text h4 span8 {
+    margin-left: 162px;
+}
+.lunch-ent-right-img img{
+    padding-top: 20px;
+    margin: 0;
+    position: inherit;
+    width: 100%;
+    height: 400px;
+}
+.lunch-ent-left-img img{
+    margin: 0;
+    position: inherit;
+    width: 100%;
+}
+.entres-left-text{
+    padding: 0;
+    margin: 0;
+}
+.entres-left-text h5{
+    padding: 0;
+    margin: 0;
+}
+.entres-right-text{
+    padding: 0;
+    margin: 0;
+   
+}
+.entres-left-text h4 span1 {
+    margin-left: 14px;
+}
+.entres-left-text h4 span2 {
+    margin-left: 6px;
+}
+.entres-left-text h4 span3 {
+    margin-left: 68px;
+}
+.entres-left-text h4 span4 {
+    margin-left: -27px;
+}
+.entres-left-text h4 span5 {
+    margin-left: 86px;
+}
+.entres-left-text h4 span6 {
+    margin-left: 138px;
+}
+
+.entres-right-text h4 span1 {
+    margin-left: 226px;
+}
+.entres-right-text h4 span2 {
+    margin-left: 90px;
+}
+.entres-right-text h4 span3 {
+    margin-left: -6px;
+}
+.entres-right-text h4 span4 {
+    margin-left: 116px;
+}
+.entres-right-text h4 span5 {
+    margin-left: 12px;
+}
+.entres-right-text h4 span6 {
+    margin-left: 6px;
+}
+.lobster-img{
+    border: none;
+}
+.fish-img{
+    border: none;
+}
+.sushi-img{
+    border: none;  
+}
+.pork-img{
+    border: none;
+}
+.chicken-img{
+    border: none;
+}
+.momo-img{
+    border: none;
+}
+.dinner-left-text{
+    padding: 0;
+}
+.dinner-right-text{
+    padding: 0;
+}
+.dinner-left-text span1{
+    
+    margin-left: 44px;
+}
+.dinner-left-text span2{
+   
+    margin-left: 24px;
+}
+.dinner-right-text span3{
+    margin-left: 92px;
+}
+.dinner-right-text span4{
+    margin-left: 6px;
+}
+.dinner-ent-right-img img{
+    top: 9744px;
+    left: 0;
+    right: 10px;
+    width: 100%;
+    padding: 0 10px 0 10px;
+    height: 300px;
+}
+.dinner-ent-left-img img{
+    width: 100%;
+    height: 300px;
+}
+.dinner-entrees h2{
+    padding-bottom: 30px;
+}
+.dinner-entres-left-text{
+    margin-top: 330px;
+    padding: 0;
+}
+.dinner-entres-right-text{
+    margin: 0;
+    padding: 0;
+}
+.dinner-entres-left-text span1{
+    margin-left: 76px;
+}
+.dinner-entres-left-text span2{
+    margin-left: 60px;
+}
+.dinner-entres-left-text span3{
+    margin-left: 18px;
+}
+.dinner-entres-left-text span4{
+    margin-left: 14px;
+}
+.dinner-entres-left-text span5{
+    margin-left: 32px;
+}
+.dinner-entres-left-text span6{
+    margin-left: 130px;
+}
+.dinner-entres-right-text span1{
+    margin-left: 92px;
+}
+.dinner-entres-right-text span2{
+    margin-left: 60px;
+}
+.dinner-entres-right-text span3{
+    margin-left: 58px;
+}
+.dinner-entres-right-text span4{
+    margin-left: 20px;
+}
+.dinner-entres-right-text span5{
+    margin-left: 10px;
+}
+.dinner-entres-right-text span6{
+    margin-left: 280px;
+}
+.menu-happyhr-right-text{
+    padding: 0;
+    margin: 0;
+}
+.menu-happyhr-left-text{
+    padding: 0;
+    margin: 0;
+}
+.menu-happyhr-left-text span1{
+    margin-left: 108px;
+}
+.menu-happyhr-left-text span2{
+    margin-left: 122px;
+}
+.menu-happyhr-right-text span1{
+    margin-left: 106px;
+}
+.menu-happyhr-right-text span2{
+    margin-left: 76px;
+}
+.mission{
+    height: 668px;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

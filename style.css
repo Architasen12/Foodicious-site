@@ -1,0 +1,1805 @@
+
+*{
+    font-family: 'Bitter', serif;
+    font-family: 'Cookie', cursive;
+}
+/************ HEADER SECTION START *********************/
+.bg-light{
+    background-color: #000000a1 !important;
+    padding: 2px 11px 6px 10px;
+}
+/* .carousel-item{
+    height: 100vh;
+    min-height: 300px;
+} */
+.carousel-caption{
+    bottom: 220px;
+}
+.carousel-caption h5{ 
+    font-size: 70px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    margin-top: 25px;
+    color: #dab94e;    
+    
+}
+.carousel-caption h5 span{
+    color: #fff;
+}
+.carousel-caption p{
+    /* width: 60%; */
+    margin: auto;
+    font-size: 18px;
+    /* font-size: calc(16px + (18 - 15) * ((100vw - 320px) / (1200 - 320))); */
+    line-height: 1.9;
+    font-family: bitter;
+}
+.carousel-caption a{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #fff;
+    margin-top: 15px;
+    border: 2px solid #dab94e;
+    background-color: rgba(0, 0, 0, 0.488);
+    font-family: bitter;
+    font-weight: 500;
+    background-position: right bottom;
+    transition: all 0.5s ease-out;
+}
+.carousel-caption a:hover{
+    color: #0f1217;
+    background: linear-gradient(to right, #dab94e 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+}
+.navbar-nav a{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: bitter;
+}
+
+.header-button{
+    padding: 10px 20px;
+    display: inline-block;
+    color: #ffff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 25px;
+    border: 2px solid #dab94e;
+    text-align: center;
+    margin: 6px 10px 0 10px;
+    font-family: bitter;
+    background-position: right bottom;
+    transition: all 0.5s ease-out;
+}
+.header-button:hover{
+    color: #0f1217;
+    background: linear-gradient(to right, #dab94e 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+}
+.navbar-light .navbar-brand{
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 9px;
+}
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover{
+    color: #fff;   
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #fff;
+    margin: 10px 20px 0 0;
+}
+.navbar-light .navbar-nav .nav-link span{
+    color: #dab94e;
+    font-family: bitter;
+}
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#dab94e;
+}
+.w-100{
+    height: 100vh;   
+}
+.navbar-toggler{
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+    background: #fff; 
+}
+
+
+
+/********* HEADER SECTION END HERE ******/
+
+/********************* ABOUT SECTION START ****************/
+.about{
+    padding: 60px 0 50px;
+    background-color: #fff;
+    display: flex;
+}
+.about h2{
+    font-family: cookie;
+    font-size: 60px;
+    color: #dab94e; 
+}
+.about h3{
+    font-family: bitter;
+    font-size: 48px;
+    color: #0f1217;
+    font-weight: 500;
+}
+.about p{
+    color: #7c7c7c;
+    font-size: 18px;
+    font-family: bitter;
+    line-height: 30px;
+    font-weight: 400;
+    padding: 16px 0 20px;
+}
+.about h4{
+    font-family: bitter;
+    font-size: 30px;
+    color: #3c3b3b;
+}
+.about img{
+    height: 550px;
+    margin-top: 34px;
+}
+.know-button{
+    border: 2px solid #dab94e;
+    padding: 10px 30px;
+    font-family: bitter;
+    text-decoration: none;
+    color: #0f1217;
+    background-position: right bottom;
+    transition: all 0.5s ease-out;
+}
+.know-button:hover{
+    color: #0f1217;
+    background: linear-gradient(to right, #dab94e 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+}
+
+
+
+/****** ABOUT SECTION END HERE *****/
+
+/*************** MENU SECTION START HERE *****************/
+.menu{
+    background-color: #f8f7f7;
+    padding: 90px 0;
+    text-align: center;
+    
+}
+
+.menu h2{
+    font-family: cookie;
+    font-size: 60px;
+    color:#dab94e ;
+}
+.menu h2 span{
+    font-family: bitter;
+    font-size: 48px;
+    font-weight: 600;
+    color: #0f1217;
+}
+.menu h4{
+    font-family: bitter;
+    font-size: 18px;
+    font-weight: 400;
+    color: #7c7c7c;
+    padding-bottom: 50px;
+    line-height: 30px;
+}
+.card-text{
+    font-family: bitter;
+    font-size: 18px;
+    font-weight: 400;
+    color: #7c7c7c;   
+}
+.card{
+    border-radius: 0;
+}
+.menu img{
+    margin: 10px 0 8px 0;
+
+}
+.card-body{
+    text-align: left;
+}
+.card-title{
+    font-family: bitter;
+    font-size: 24px;
+}
+
+.card-title span{
+    color: #dab94e;
+    font-size: 24px;
+    font-family: bitter;
+    font-weight: 600;
+}
+.card-title i{
+    color: #dab94e;
+}
+.card-title span1{
+    padding-left: 1px;
+}
+.card-title span3{
+    padding-left: 148px;
+}
+.card-title span5{
+    padding-left: 106px;
+}
+.card-title span7{
+    padding-left: 133px;
+}
+.card-title span2{
+    padding-left: 142px;
+}
+.card-title span4{
+    padding-left: 106px;
+}
+.card-title span6{
+    padding-left: 117px;
+}
+.card-title span8{
+    padding-left: 100px;
+}
+.view-button{
+    border: 2px solid #dab94e;
+    padding: 10px 30px;
+    font-family: bitter;
+    text-decoration: none;
+    color: #0f1217;   
+    background-position: right bottom;
+    transition: all 0.5s ease-out;
+    
+}
+.view-button:hover{
+    color: #0f1217;
+    background: linear-gradient(to right, #dab94e 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+}
+
+/****** MENU SECTION END HERE ****/
+
+/****************** BANQUET SECTION START **************/
+.banquet{
+    width: 100%;
+    background-image: url(../images/banquet-img.jpg);
+    background-position: center;
+    padding-top: 52px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    
+}
+.banquet h2{
+    font-size: 60px;
+    font-family: cookie;
+    color: #dab94e;
+    text-align: center;
+   
+}
+.banquet h3{
+    font-size: 38px;
+    font-family: bitter;
+    color: #fff;
+    text-align: center;
+    padding: 0 0 5px 12px;
+}
+.banquet p{
+    font-size: 16px;
+    color: #fff;
+    font-family: bitter;
+    text-align: center;
+}
+.banquet-text{
+    border: 1px solid #000;
+    background-color: #000000c2;
+    padding:30px 50px 30px 50px;
+    margin: 0 80px 0 80px;
+}
+.banquet h4{
+    font-size: 18px;
+    font-family: bitter;
+    color: #fff;
+    text-align: center;  
+    margin-top: 30px; 
+}
+.banquet h4 span{
+    font-size: 30px;
+    font-family: bitter;
+    color:#dab94e;
+    text-align: center;
+    padding-top:340px;
+}
+/********* BANQUET SECTION END HERE *****/
+
+/***************** OUR GALLERY SECTION START *************/
+.gallery{
+    background-color: #f7f7f7;
+    padding: 40px 0;
+}
+.gallery .box-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+   padding-bottom: 30px;
+}
+.gallery .box-container .box{
+    height: 17rem;
+    width: 17rem;
+    margin: 21px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.gallery .box-container .box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+/* .gallery1{
+    display: flex;
+    
+}
+.gallery1 img{
+height: 83%;
+}
+.gallery2 img{
+height: 83%;
+}
+.gallery2{
+    display: flex;  
+    margin-top: -50px;  
+} */
+.gallery h2{
+    font-size: 60px;
+    font-family: cookie;
+    color:#dab94e;
+    text-align: center;
+}
+.gallery h3{
+    font-size: 48px;
+    font-family: bitter;
+    color:#0f1217;
+    text-align: center;
+   padding-bottom: 40px;
+}
+.card-title span5 {
+    padding-left: 126px;
+}
+.card-title span4 {
+    padding-left: 128px;
+}
+.card-title span6 {
+    padding-left: 138px;
+}
+.card-title span8 {
+    padding-left: 130px;
+}
+
+
+/******** GALLERY END HERE *****/
+
+/*************** HOURS OF OPERATION SECTION START ***********/
+.hours_nav{
+    list-style: none;
+   
+}
+.hours_nav li a{
+    text-decoration: none;
+    font-family: bitter;
+    font-size: 24px;
+    color: #0f1217;
+    padding-bottom: 10px;
+    font-weight: 400;
+    
+}
+.hours_nav li{
+    margin-bottom: 5px;
+}
+.hours_nav li a span{
+    text-decoration: none;
+    font-family: bitter;
+    font-size: 18px;
+    color: #7c7c7c;
+    font-weight: 300;
+    padding-left: 25px;      
+}
+.operation h3{
+    font-size: 30px;
+    font-family: bitter;
+    font-weight: 500;
+    color: #0f1217;
+    padding: 60px 0 20px;
+}
+.operation{
+    background-color: #fff;
+    padding: 20px 30px;
+}
+.hours_nav li a img{
+    margin: 0px 20px 4px -34px;
+}
+.hours_nav li a span1{
+    text-decoration: none;
+    font-family: bitter;
+    font-size: 24px;
+    color: #0f1217;
+    margin-top: 10px;
+}
+.buy-button{
+    border: 2px solid #dab94e;
+    padding: 8px 31px;
+    font-family: bitter;
+    text-decoration: none;
+    color: #0f1217;
+    font-size: 18px;
+    background-position: right bottom;
+    transition: all 0.5s ease-out;
+}
+.buy-button:hover{
+    color: #0f1217;
+    background: linear-gradient(to right, #dab94e 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+}
+.gift-image img{
+    padding: 13px 0 42px 0;
+}
+.direction_nav{
+    list-style: none;   
+}
+.direction_nav li a{
+    text-decoration: none;
+    font-family: bitter;
+    font-size: 24px;
+    color: #0f1217;
+    font-weight: 400;
+    
+}
+.direction_nav li a i{
+    color: #dab94e;
+    border: 2px solid #dab94e;
+    border-radius: 50%;
+    padding: 5px 9px;
+    margin: 0px 17px 0px -32px;
+}
+.direction_nav li a span3 i{
+    color: #dab94e;
+    border: 2px solid #dab94e;
+    border-radius: 50%;
+    padding: 7px 7px;
+    margin: 0px 17px 0px -32px;
+}
+.direction_nav li a span4 i{
+    color: #dab94e;
+    border: 2px solid #dab94e;
+    border-radius: 50%;
+    padding: 5px 11px;
+    margin: 0px 17px 0px -32px;
+}
+.direction_nav li a span{
+    text-decoration: none;
+    font-family: bitter;
+    font-size: 18px;
+    color: #7c7c7c;
+    font-weight: 300;
+    padding-left: 36px;
+}
+.direction_nav li{
+    padding-bottom: 5px;
+}
+.direction_nav li a span1{
+   font-family: bitter;
+   color: #0f1217;
+   margin-left: 4px;
+}
+.direction_nav li a span2{
+   margin-left: 9px;
+   font-family: bitter;
+   color: #0f1217;
+}
+/******** OPERATION SECTION END HERE *****/
+
+/******************************** ABOUT PAGE START ***********************************************/
+/************************************************************************************************/
+.about-banner{
+    width: 100%;
+    background-image: url(../images/about-banner);
+    background-position: center;
+    padding: 220px 0 150px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block !important;
+}
+.about-banner h2{
+    font-size: 70px;
+    color: #dab94e;
+    font-weight: 300;
+    text-align: center;
+   
+}
+.about-banner h4{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 300;
+    font-family: bitter;
+    text-align: center;  
+}
+/********** OUR HISTORY SEC START *************/
+.history{
+    padding: 70px 0 340px 0;
+}
+.history h2{
+    color: #dab94e;
+    font-size: 50px;
+    font-weight: 300;
+    /* padding-top: 70px; */
+}
+.history-left-text p{
+    color: #0f1217;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: bitter;
+    line-height: 36px;
+    padding-top: 10px;
+
+}
+.history-right-text p{
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: bitter;
+    line-height: 36px;
+   padding-left: 40px;
+   
+
+}
+.right-image img{
+    position: relative;
+    left: 465px;
+    padding-top: 89px;
+    width: 64%;
+    height: 500px;
+}
+.left-image  img{
+    position: absolute;
+    top: 814px;
+    right: 0px;
+    bottom: 0px;
+    left: 72px;
+    z-index: 6;
+    width: 37%;
+    
+}
+/**** OUR HISTORY SEC END ****/
+/*********** OUR MISSION SECTION START *********/
+.mission{
+    width: 100%;
+    background-image: url(../images/mission-banner);
+    background-position: center;
+    padding: 20px 0 330px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bottom-text h2{
+    color: #0f1217;
+    font-size: 48px;
+    font-weight: 500;
+    font-family: bitter;
+    padding-left: 58px;
+    text-align: center;
+}
+.bottom-text h2 span{
+    color: #dab94e;
+    font-size: 60px;
+    font-weight: 500;
+    font-family: cookie;
+    
+    
+}
+.bottom-text p{
+    color: #0f1217;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    font-family: bitter;
+    border: 2px solid #00000014;
+    background-color: #fbfbfb;
+    stroke: #000;
+    padding: 39px 46px;
+    line-height: 26px;
+    line-height: 32px;
+}
+.bottom-text{
+  margin-top: -250px;
+    
+}
+/******* OUR MISSION SEC END *****/
+/************ VARIOUS CUISINE SECTION START ********/
+.cuisine{
+    padding: 80px 0 40px;
+}
+.cuisine h4{
+    font-size: 20px;
+    color: #0f1217;
+    font-family: bitter;
+    font-weight: 400;
+    padding-bottom: 27px;
+}
+.cuisine-left-para p{
+    font-size: 18px;
+    color: #7c7c7c;
+    font-weight: 400;
+    line-height: 30px;
+    font-family: bitter;
+}
+.cuisine-right p{
+    font-size: 18px;
+    color: #7c7c7c;
+    font-family: bitter;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 28px;
+}
+.cuisine img{
+    margin-bottom: 40px;
+    width: 100%;
+}
+/********* VARIOUS CUISINE SEC END ******/
+
+/*************** HOW WE WORK SEC START ************/
+.work{
+    background-color: #fbfbfb;
+    padding-top: 40px;
+    
+}
+.work h2{
+    color: #0f1217;
+    font-size: 48px;
+    font-weight: 500;
+    text-align: center;
+    font-family: bitter;
+}
+.work h2 span{
+    color: #dab94e;
+    font-size: 60px;
+    font-weight: 500;
+    text-align: top-center;
+    font-family: cookie;
+}
+.work p{
+    color: #0f1217;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    font-family: bitter;
+    line-height: 30px;
+    padding-bottom: 20px;
+    /* padding: 20px 0 20px 0; */
+}
+
+.play-btn{
+    width: 8%;
+    position: relative;
+    top: -322px;
+    cursor: pointer;
+    transition: 0.5s;
+    opacity: 0;
+    left: 580px;
+}
+.modal-body source{
+    width: 200%;
+    height: 500px;
+}
+.col-md-12:hover .play-btn{
+    opacity: 1;
+}
+.modal-content{
+    background: transparent !important;
+    border: none !important;
+    width: 190%;
+    margin: 65px 0px 0 -204px;
+}
+/********* ABOUT PAGE END ***********/
+
+/*********************************** BANQUETS PAGE START *************************/
+/*********************************************************************************/
+.banquet-banner{
+    width: 100%;
+    background-image: url(../images/banquet-pg-banner);
+    background-position: center;
+    padding: 340px 0 125px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banquet-banner h2{
+    font-size: 70px;
+    color: #dab94e;
+    font-weight: 300;
+    text-align: center;
+    margin-top: -128px;
+}
+.banquet-banner h4{
+    font-size: 24px;
+    color: #fff;
+    font-weight: 400;
+    font-family: bitter;
+    text-align: center;  
+}
+/********* BANQUET BANNER END ******/
+/******************** BANQUET SERVICE SECTION START ****************/
+
+.banquet-service h2{
+    font-size: 55px;
+    color: #dab94e;
+    font-weight: 200;
+    
+}
+.banquet-service h3{
+    font-size: 40px;
+    color: #0f1217;
+    font-weight: 500;
+    font-family: bitter;
+}
+.banquet-service p{
+    font-size: 18px;
+    color: #7c7c7c;
+    font-weight: 400;
+    font-family: bitter;
+    padding: 20px 0 20px 0;
+    line-height: 30px;
+}
+.image1 img{
+    float: right;
+    padding-bottom: 20px;
+    
+}
+.image2 img{
+    float: right;
+    height: 440px;
+}
+.image3 img{
+   
+    padding: 215px 0 20px 0;
+}
+.image4 img{
+    
+    position: relative;
+}
+.banquet-play img{
+    position: absolute;
+    top: 770px;
+    right: 707px;
+}
+.banquet-service{
+    padding: 50px 0;
+}
+/******** BANQUET SERVICE SEC END ******/
+/********************* OCCASSION SECTION START ****************/
+.occassion h2{
+    font-size: 30px;
+    color: #0f1217;
+    font-weight: 500;
+    font-family: bitter;
+}
+.occassion h3{
+    font-size: 18px;
+    color: #0f1217;
+    font-weight: 500;
+    font-family: bitter;
+   
+}
+.occassion h3 span{
+    font-size: 22px;
+    color: #dab94e;
+    font-weight: 500;
+    font-family: bitter;
+   
+}
+.occassion p{
+    font-size: 18px;
+    color: #7c7c7c;
+    font-weight: 400;
+    font-family: bitter;
+    padding: 30px 0 30px 0;
+    line-height: 36px;
+}
+.occassion-text{
+    border: 1px solid #fbfbfb;
+    background-color: #fbfbfb;
+    padding: 75px 54px;
+    margin: 92px -249px 0px 0px;
+}
+.occassion{
+    padding: 80px 0 100px;
+}
+.banq-image5 img{
+    width: 75%;
+    height: 460px;  
+    margin: -44px 0 0 158px;  
+}
+/**************** BANQUET PAGE END **********/
+
+/*********************************** CONTACT PAGE START ************************/
+/*******************************************************************************/
+.contact-banner{
+    width: 100%;
+    background-image: url(../images/contact-pg-banner);
+    background-position: center;
+    padding: 340px 0 125px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact-banner h2{
+    font-size: 70px;
+    color: #dab94e;
+    font-weight: 300;
+    text-align: center;
+    margin-top: -128px;
+}
+.contact-banner h4{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 300;
+    font-family: bitter;
+    text-align: center;  
+}
+/******** CONTACT BANNER END *******/
+/**************** RESERVATION SECTION START *************/
+.reservation h2{
+    font-size: 44px;
+    color: #0f1217;
+    font-weight: 500;
+    font-family: bitter;
+   
+}
+.reservation h2 span{ 
+    font-size: 60px;
+    color: #dab94e;
+    font-weight: 500;
+    font-family: cookie;
+   
+}
+.reservation h4{
+    font-size: 18px;
+    color: #78797a;
+    font-weight: 300;
+    font-family: bitter;
+    padding-bottom: 40px;
+    
+}
+.availability h2{
+    font-size: 24px;
+    color: #dab94e;
+    font-weight: 300;
+    font-family: cookie;
+    text-align: center;
+}
+.availability h3{
+    font-size: 24px;
+    color: #fff;
+    font-weight: 300;
+    font-family: bitter;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.availability{
+    border: 6px solid #dab94e;
+    background-color: #000;
+    padding: 25px 28px;
+    margin-top: -90px;  
+}
+.form-sec1{
+    display: flex;  
+}
+.res-form input{
+margin-bottom: 20px;
+border-radius: 0;
+font-family: bitter;
+color: #808183;
+font-size: 18px;
+padding: 15px 15px;
+font-weight: 400;
+border: 1px solid #888888;
+}
+
+.form-select{
+    margin-bottom: 20px;
+border-radius: 0;
+font-family: bitter;
+color: #808183;
+font-size: 18px;
+padding: 15px 15px;
+font-weight: 400;
+border: 1px solid #888888;
+}
+
+.get-reservation-button{
+    border: 2px solid #dab94e;
+    padding: 15px 20px;
+    font-family: bitter;
+    text-decoration: none;
+    color: #0f1217;
+    font-size: 18px;
+    font-weight: 400;
+    background-position: right bottom;
+    transition: all 0.5s ease-out;
+    margin-left: -448px;
+}
+
+.get-reservation-button:hover{
+    color: #0f1217;
+    background: linear-gradient(to right, #dab94e 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+}
+
+.reservation{
+    padding: 70px 0 100px;
+}
+.lunch-wrap{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dotted #fff;
+    padding-bottom: 10px;
+}
+.lunch-wrap h5{
+color: #dab94e;
+font-family: bitter;
+font-size: 16px;
+}
+.lunch-wrap h5 span{ 
+    color: #fff;
+    font-family: bitter;
+    font-size: 16px;
+    }
+.dinner-wrap{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dotted #fff;
+    padding: 10px 0 10px 0;
+}
+.dinner-wrap h5{
+    color: #dab94e;
+    font-family: bitter;
+    font-size: 16px;
+    }
+.dinner-wrap h5 span{ 
+        color: #fff;
+        font-family: bitter;
+        font-size: 16px;
+        }
+.happy-hour-wrap{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dotted #fff;
+    padding: 10px 0 10px 0;
+}
+.happy-hour-wrap h5{
+    color: #dab94e;
+    font-family: bitter;
+    font-size: 16px;
+    }
+.happy-hour-wrap h5 span{ 
+        color: #fff;
+        font-family: bitter;
+        font-size: 16px;
+        }
+  .call h5{
+      font-size: 18px;
+      font-family: bitter;
+      color: #dab94e;
+      font-weight: 300;
+      text-align: center;
+      padding: 50px 0 10px;
+  }      
+.call h3{
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+.availabl-image img{
+    padding-left: 42px;
+}
+.availabl-image{
+    background-color: #000;
+    color: #000;
+}
+/*********** RESERVATION SECTION END ************/
+/************************* OUR CAREER SECTION START ******************/
+.career{
+    width: 100%; 
+    background-image: url(../images/contact-pg-career-img);
+    background-position: center;
+    padding: 0px 0 150px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.career-text h2{
+    font-size: 40px;
+      font-family: bitter;
+      color: #0f1217;
+      font-weight: 500;
+      text-align: center;
+}
+.career-text h2 span{
+    font-size: 50px;
+      font-family: cookie;
+      color: #dab94e;
+      font-weight: 500;
+      text-align: center;
+}
+.career-text p{
+text-align: center;
+font-family: bitter;
+font-size: 18px;
+color: #0f1217;
+font-weight: 300;
+line-height: 26px;
+padding-bottom: 22px;
+}
+.career-text{
+    background-color: #fff;
+    padding: 30px 32px;
+    margin: 175px 112px 0 249px;
+}
+.join-button{
+    text-align: center;
+    border: 2px solid #dab94e;
+    padding: 7px 20px;
+    font-family: bitter;
+    text-decoration: none;
+    color: #0f1217;
+    font-size: 18px;
+    margin-left: 368px;
+    font-weight: 400;
+    
+    background-position: right bottom;
+    transition: all 0.5s ease-out;
+}
+.join-button:hover{
+    color: #0f1217;
+    background: linear-gradient(to right, #dab94e 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+}
+/*********** OUR CAREER SEC END ********/
+/****************** OUR PRESS SECTION START ****************/
+.press{
+    padding: 50px 0;
+}
+
+.press h2{
+    font-size: 60px;
+    color: #dab94e;
+    font-weight: 500;
+    font-family: cookie; 
+    text-align: center;
+}
+
+.press h4{
+    font-size: 42px;
+    color: #0f1217;
+    font-weight: 500;
+    font-family: bitter;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.press h5{
+    color: #dab94e;
+    font-family: bitter;
+    padding-top: 20px;
+}
+.press h5 i{
+    padding-right: 20px;
+}
+.press p{
+    font-family: bitter;
+    font-size: 18px;
+    color: #7c7c7c;
+    font-weight: 400;
+    line-height: 32px;
+    padding-top: 10px;
+    }
+
+/********** PRESS SEC END ********/
+
+/********************************* MENU PAGE START ************************/
+/**************************************************************************/
+.menu-banner{
+    width: 100%;
+    background-image: url(../images/menu-pg-banner);
+    background-position: center;
+    padding: 340px 0 125px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu-banner h2{
+    font-size: 70px;
+    color: #dab94e;
+    font-weight: 400;
+    text-align: center;
+    margin-top: -128px;
+}
+.menu-banner h4{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 400;
+    font-family: bitter;
+    text-align: center;  
+}
+/*************** LUNCH STARTER SECTION START *************/
+.lunch-starter h2{
+    font-family:cookie;
+    color: #dab94e;
+    font-size: 60px;
+    font-weight: 500;
+    text-align: center;
+}
+.lunch-starter h2 span{
+    font-family:bitter;
+    color: #0f1217;
+    font-size: 48px;
+    font-weight: 600;
+}
+.lunch-starter h3{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+   padding-bottom: 10px;
+}
+.lunch-starter p{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.lunch-starter{
+    padding: 70px 0 80px;
+}
+
+/* .lunch-starter-left-text{
+   border-right: 1px solid #000;
+   height: 400px;
+ 
+    
+} */
+.lunch-starter-left-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+  
+}
+.lunch-starter-left-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.lunch-starter-left-text{
+    padding-right: 100px;
+}
+.lunch-starter-right-text{
+    padding-right: 100px;
+}
+.lunch-starter-right-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+}
+.lunch-starter-right-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.lunch-starter h4 span{
+    color: #dab94e;
+    font-family: bitter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.lunch-starter h4 i{
+    color: #dab94e;
+    margin-left: 110px;
+}
+.lunch-starter-left-text h4 span1 {
+    margin-left: 70px;
+}
+.lunch-starter-left-text h4 span2 {
+    margin-left: 86px;
+}
+.lunch-starter-left-text h4 span3 {
+    margin-left: 144px;
+}
+.lunch-starter-left-text h4 span4 {
+    margin-left: 64px;
+}
+.lunch-starter-right-text h4 span5 {
+    margin-left: 100px;
+}
+.lunch-starter-right-text h4 span6 {
+    margin-left: 6px;
+}
+.lunch-starter-right-text h4 span7 {
+    margin-left: -14px;
+}
+.lunch-starter-right-text h4 span8 {
+    margin-left: 42px;
+}
+.lunch-starter a{
+    color: #0f1217;
+    font-family: bitter;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 31px 0 0 670px;
+}
+.lunch-starter img{
+    margin-bottom: 30px;
+}
+/******** LUNCH STARTER SEC END ******/
+/***************** LUNCH ENTREES SECTION START ******************/
+.lunch-ent-images{
+    display: flex;
+    justify-content: space-between;
+}
+.lunch-ent-left-img img{
+    position: relative;
+}
+.lunch-ent-right-img img{
+    position: absolute;
+    top: 2224px;
+    right: 0;
+    bottom: 0;
+    left: 546px;
+    height: 420px;
+}
+
+.entres-left-text{
+    padding-right: 138px;
+    margin-top: 90px;
+}
+.entres-right-text{
+    margin-top: 90px;
+}
+.lunch-entrees h2{
+    font-family:bitter;
+    color: #0f1217;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 10px;
+ 
+}
+.lunch-entrees p{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.lunch-entrees{
+    background-color: #f8f7f7;
+    padding: 80px 0 90px;
+}
+.entres-left-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+  
+}
+.entres-left-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.entres-right-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+  
+}
+.entres-right-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.entres-right-text{
+    padding-right:140px;
+}
+.lunch-entrees h4 span{
+    color: #dab94e;
+    font-family: bitter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.lunch-entrees h4 i{
+    color: #dab94e;
+    margin-left: 40px;
+}
+.entres-left-text h4 span1 {
+    margin-left: 160px;
+}
+.entres-left-text h4 span2 {
+    margin-left: 148px;
+}
+.entres-left-text h4 span3 {
+    margin-left: 212px;
+}
+.entres-left-text h4 span4 {
+    margin-left: 114px;
+}
+.entres-left-text h4 span5 {
+    margin-left: 234px;
+}
+.entres-left-text h4 span6 {
+    margin-left: 286px;
+}
+
+.entres-right-text h4 span1 {
+    margin-left: 56px;
+}
+.entres-right-text h4 span2 {
+    margin-left: 220px;
+}
+.entres-right-text h4 span3 {
+    margin-left: 124px;
+}
+.entres-right-text h4 span4 {
+    margin-left: 244px;
+}
+.entres-right-text h4 span5 {
+    margin-left: 146px;
+}
+.entres-right-text h4 span6 {
+    margin-left: 132px;
+}
+/*********** LUNCH ENTREE SEC END ********/
+/********************** ADDITION TO YOUR STEAK SECTION START ****************/
+.steak-entree h2{
+    font-family:bitter;
+    color: #0f1217;
+    font-size: 44px;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 40px;
+ 
+}
+.steak-entree{
+    padding: 80px 0;
+    text-align: center;
+}
+.steak-entree h5{
+    font-family: bitter;
+    font-size: 24px;
+    color: #3c3b3b;
+    padding-top: 20px;
+    font-weight: 500;
+}
+.steak-entree h6{
+    font-family: bitter;
+    font-size: 24px;
+    color: #dab94e;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.lobster-img{
+    border-right: 1px solid #e3e2e2;
+}
+.fish-img{
+    border-right: 1px solid #e3e2e2;
+}
+.sushi-img{
+    border-right: 1px solid #e3e2e2;   
+}
+.pork-img{
+    border-right: 1px solid #e3e2e2;
+}
+.chicken-img{
+    border-right: 1px solid #e3e2e2;
+}
+.momo-img{
+    border-right: 1px solid #e3e2e2;
+}
+/************ ADDITION TO STEAK SEC END ********/
+/********************* DINNER STARTER SECTION START *****************/
+.dinner h2{
+    font-family:cookie;
+    color: #dab94e;
+    font-size: 60px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.dinner h2 span{
+    font-family:bitter;
+    color: #0f1217;
+    font-size: 48px;
+    font-weight: 500;
+}
+.dinner{
+    background-color: #f8f7f7;
+    padding: 70px 0;
+}
+.dinner-left-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+  
+}
+.dinner-left-text{
+    padding: 20px 100px 0 0;
+}
+.dinner-right-text{
+    padding: 20px 100px 0 0;
+  
+}
+
+.dinner-left-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.dinner-right-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+  
+}
+.dinner-right-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.dinner h4 i{
+    color: #dab94e;
+    margin-left: 40px;
+}
+.dinner h4 span{
+    color: #dab94e;
+    font-family: bitter;
+    font-size: 24px;
+    
+}
+.dinner-left-text span1{
+    
+    margin-left: 220px;
+}
+.dinner-left-text span2{
+   
+    margin-left: 198px;
+}
+.dinner-right-text span3{
+    
+    margin-left: 210px;
+}
+.dinner-right-text span4{
+    
+    margin-left: 120px;
+}
+/********** DINNER STARTER SEC END *******/
+/******************* DINEER ENTREES SECTION START *****************/
+
+.dinner-ent-left-img img{
+    position: relative;
+    z-index: 20;
+    height: 380px;
+}
+.dinner-ent-right-img img{
+    position: absolute;
+    top: 5672px;
+    right: 0;
+    bottom: 0;
+    left: 633px;
+    height: 400px;
+}
+.dinner-entrees h2{
+    font-family:bitter;
+    color: #0f1217;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 98px;
+}
+.dinner-entrees{
+    padding: 60px 0 90px 0;
+   
+}
+.dinner-entres-left-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+  
+}
+.dinner-entrees span{
+  color: #dab94e;
+  font-size: 24px;
+  font-family: bitter;
+  font-weight: 500;
+}
+.dinner-entrees i{
+    color: #dab94e;
+  }
+
+.dinner-entres-left-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.dinner-entres-right-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+  
+}
+.dinner-entres-right-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.dinner-entres-left-text{
+    padding: 40px 132px 0 0;
+}
+.dinner-entres-right-text{
+    padding: 40px 132px 0 0;
+}
+.dinner-entres-left-text span1{
+    margin-left: 222px;
+}
+.dinner-entres-left-text span2{
+    margin-left: 210px;
+}
+.dinner-entres-left-text span3{
+    margin-left: 160px;
+}
+.dinner-entres-left-text span4{
+    margin-left: 152px;
+}
+.dinner-entres-left-text span5{
+    margin-left: 186px;
+}
+.dinner-entres-left-text span6{
+    margin-left: 288px;
+}
+.dinner-entres-right-text span1{
+    margin-left: 244px;
+}
+.dinner-entres-right-text span2{
+    margin-left: 210px;
+}
+.dinner-entres-right-text span3{
+    margin-left: 210px;
+}
+.dinner-entres-right-text span4{
+    margin-left: 166px;
+}
+.dinner-entres-right-text span5{
+    margin-left: 166px;
+}
+.dinner-entres-right-text span6{
+    margin-left: 120px;
+}
+/******* DINNER ENTREES SEC END *******/
+/***************** HAPPY HOUR SECTION START ************/
+.menu-happy-hr-sec h2{
+    font-family:cookie;
+    color: #dab94e;
+    font-size: 60px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.menu-happy-hr-sec h2 span{
+    font-family:bitter;
+    color: #0f1217;
+    font-size: 48px;
+    font-weight: 600;
+}
+.menu-happy-hr-sec{
+    background-color: #f8f7f7;
+    padding: 70px 0;
+}
+.menu-happy-hr-sec span{
+    color: #dab94e;
+    font-family: bitter;
+    font-weight: 500;
+}
+.menu-happy-hr-sec i{
+    color: #dab94e;
+}
+.menu-happyhr-left-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+}
+.menu-happyhr-left-text{
+    padding: 20px 164px 0 0;
+}
+.menu-happyhr-right-text{
+    padding: 20px 164px 0 0;
+}
+.menu-happyhr-left-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.menu-happyhr-right-text h4{
+    font-family:bitter;
+    color: #3c3b3b;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0 10px 0;
+  
+}
+.menu-happyhr-right-text h5{
+    font-family:bitter;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-weight: 300;
+}
+.menu-happyhr-left-text span1{
+    margin-left: 222px;
+}
+.menu-happyhr-left-text span2{
+    margin-left: 230px;
+}
+.menu-happyhr-right-text span1{
+    margin-left: 222px;
+}
+.menu-happyhr-right-text span2{
+    margin-left: 185px;
+}
+
+
+
+
+
+
+/***************** FOOTER SECTION START ***************/
+.page-footer {
+    background-color: #fffcfc;
+    padding: 50px 0 40px;
+}
+.page-footer h3 {
+    font-size: 24px;
+    font-weight: 400;
+    color: #0f1217;
+    font-family: bitter;
+    padding: 0px 0px 20px 28px;
+}
+.page-footer h3 span{
+    font-size: 24px;
+    font-weight: 400;
+    color: #0f1217;
+    font-family: bitter;
+    padding-bottom: 20px;
+    margin-left: -28px;
+}
+
+.page-footer p {
+    color: #7c7c7c;
+    font-weight: 400;
+    /* padding: 20px 0 20px; */
+    font-size: 18px;
+    font-family: bitter;
+}
+
+.quike_link li {
+    list-style: none;
+    padding-bottom: 16px;
+}
+.quike_link li a {
+    text-decoration: none;
+    color: #7c7c7c;
+    font-size: 18px;
+    font-family: bitter;
+}
+
+.footer_social li a i {
+    color: #dab94e;
+    padding-right: 10px;
+}
+.footer_social li a{
+    font-family: bitter;
+    font-weight: 400;
+}
+
+.submit-button{
+    border: 2px solid #dab94e;
+    padding: 6px 30px;
+    font-family: bitter;
+    text-decoration: none;
+    color: #0f1217;
+    font-size: 18px;
+    font-weight: 400;
+    background-position: right bottom;
+    transition: all 0.5s ease-out;
+}
+.submit-button:hover{
+color: #0f1217;
+background: linear-gradient(to right, #dab94e 50%, transparent 50%);
+background-size: 200% 100%;
+background-position: left bottom;
+}
+.footer_social li{
+    list-style: none;
+    padding-bottom: 20px;
+}
+.full-name input{
+    width: 234px;
+    border-radius: 0;
+    font-family: bitter;
+    font-weight: 400;
+}
+.email input{
+    width: 234px;
+    border-radius: 0;
+    margin-bottom: 25px;
+    font-family: bitter;
+    font-weight: 400;
+}
+.footer_social li a{
+    text-decoration: none;
+    color: #7c7c7c;
+    font-size: 18px;
+}
+.bottom-footer{
+    display: flex;
+    justify-content: space-between;
+     border-top: 1px solid #7c7c7c45;;  
+     margin-top: 30px; 
+}
+.bottom-footer h5{
+    color: #7c7c7c;;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 20px;
+    font-family: bitter;
+}
+.quike_link a:hover{
+    color: #dab94e;
+}
